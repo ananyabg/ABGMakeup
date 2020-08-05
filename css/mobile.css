@@ -65,6 +65,10 @@
 
 /* Contact Info*/
 
+#contact-form {
+    margin-top: 2px;
+}
+
 #contact-info .box {
     border-bottom: #815B34 dotted 1px;
 }

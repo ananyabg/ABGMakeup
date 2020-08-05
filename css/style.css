@@ -278,6 +278,7 @@ p {
 
 #contact-form {
     background-color: #ddd4d8;
+    background-image: url(../img/XSHOWCASe.jpg) ;
 }
 
 #contact-form .form-group {
@@ -285,6 +286,7 @@ p {
 }
 
 #contact-form label {
+    color: chocolate;
     display: block;
     margin-bottom: 5px;
 }
